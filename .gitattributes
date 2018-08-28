@@ -1,1 +1,1 @@
-fake-secret.txt filter=git-crypt diff=git-crypt
+fake-key.txt filter=git-crypt diff=git-crypt
